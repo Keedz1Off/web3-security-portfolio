@@ -23,4 +23,4 @@ Source snapshots and evidence are linked in the dedicated case. The project is a
 
 An unresolved candidate stays a candidate. A local test result stays scoped to its actual setup. A closed finding keeps its original vulnerable snapshot distinct from fixed source.
 
-Read [FLOW.md](FLOW.md) for the method and [READING-GUIDE.md](READING-GUIDE.md) for navigation.
+Read [FLOW.md](https://github.com/Keedz1Off/web3-security-portfolio/blob/be4411705ba3dc9892241f27408cc4c40c10a5c9/FLOW.md) for the method and [READING-GUIDE.md](https://github.com/Keedz1Off/web3-security-portfolio/blob/be4411705ba3dc9892241f27408cc4c40c10a5c9/READING-GUIDE.md) for navigation.

@@ -13,6 +13,6 @@ Smart-contract review, bridge flows and invariant-based testing, with AI assista
 
 Read each case's README first, then its tests, matrices and evidence.
 
-[All results and evidence limits](FINDINGS.md) · [Bridge flow and method](FLOW.md) · [File map](READING-GUIDE.md).
+[All results and evidence limits](EVIDENCE.md) · [Bridge flow and method](https://github.com/Keedz1Off/web3-security-portfolio/blob/be4411705ba3dc9892241f27408cc4c40c10a5c9/FLOW.md).
 
 The Voxel Bench team implemented the fix and [credits Stefan for SR-01](https://github.com/ETH-GLOBAL-ONLINE/voxel-bench/blob/2734fc4e31a6763986a62d5bdf2704e770c1c71d/docs/CONTRACT_AUDIT.md#findings). Other linked work retains its own scope; learning examples are not upstream vulnerability claims.
